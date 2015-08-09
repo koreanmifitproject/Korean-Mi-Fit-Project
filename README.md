@@ -21,8 +21,13 @@ If there's any distributors, this repository will be deleted. Also I'll never re
 3. 리스프링
 4. 사용
 
+*참고 : iFile에서 앱 이름이 보이지 않고 영어와 숫자의 조합으로 표시되면 iFile 설정 - File Manager - Application Names 항목을 활성화 하십시오.
+
+
 #적용 방법 (English)
 1. Go to /var/mobile/Containers/Bundle/Application/小光blabla/Miband.app with iOS Media Explorer such as iFile, iFunbox etc.
 2. move ko.lproj to 1's path
 3. Respring
 4. Enjoy
+
+*Tip : If you see alphabet and numbers instead of App name, Go to iFile preferences - File manager - Activate Application names
