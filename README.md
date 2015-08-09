@@ -7,7 +7,6 @@
 이 저장소 내의 어떠한 내용도 무단배포 할 수 없습니다.
 배포된 흔적이나 게시물이 보일시 이 저장소는 삭제되며, 배포 또한 중지됩니다.
 
-
 # Korean-Mi-Fit-Project
 This is Official Korean Mi Fit Project Repository created by iPhone6 Plus (Kim Kyeongwook) at ASAMO Naver Cafe (http://cafe.naver.com/appleiphone)
 
@@ -15,3 +14,15 @@ All Works are created by Kim Kyeongwook.
 All translations are done by Kim Kyeongwook.
 Please do not distribute any contents in this repository.
 If there's any distributors, this repository will be deleted. Also I'll never release newer version.
+
+#적용 방법 (Korean)
+1. iFile, iFunBox등의 파일 탐색기로 /var/mobile/Containers/Bundle/Application/小光궁시렁궁시렁/Miband.app으로 이동
+2. 첨부파일을 풀면 나오는 ko.lproj를 1의 경로로 복붙
+3. 리스프링
+4. 사용
+
+#적용 방법 (English)
+1. Go to /var/mobile/Containers/Bundle/Application/小光blabla/Miband.app with iOS Media Explorer such as iFile, iFunbox etc.
+2. move ko.lproj to 1's path
+3. Respring
+4. Enjoy
